@@ -1,0 +1,31 @@
+.container { 
+        width: 960px;
+        height: auto;
+        margin: 3rem;
+        background-color: #7248B0;
+        margin: auto;
+}
+.gdc {
+        margin: 1rem;
+        padding: auto;
+}
+.blockquote {
+        display: inline-flex;
+        margin: 2rem;
+        background-color: #BABDF6;
+        border-bottom: 2px solid black;
+        border-radius: 1rem;
+        justify-content: center;
+        text-align: center;
+        padding: 2rem;
+}
+
+h2 {
+        text-align: cen;
+        width: 50%;
+        font-size: 1px;
+}
+
+.boutton {
+        padding: 1rem;
+}
